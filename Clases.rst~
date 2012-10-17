@@ -1,0 +1,25 @@
+Descripción
+-----------
+
+.. automodule:: clases
+
+Persona
+-------
+
+.. autoclass:: persona.Persona
+    :members:
+    :inherited-members:
+
+Alumno
+------
+
+.. autoclass:: alumno.Alumno
+    :members:
+
+Profesor
+--------
+
+.. autoclass:: profesor.Profesor
+    :members:
+
+

@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+
+__doc__ = """
+Clases disponibles
+==================
+
+Las clases disponibles son:
+  * Persona
+        Es la clase de que otras clases heredaran métodos.
+  * Alumno
+        Hereda de la clase Persona.
+  * Profesor
+        También hereda de la clase Persona.
+."""
+
+from persona import Persona
+from alumno import Alumno
+from profesor import Profesor
+
